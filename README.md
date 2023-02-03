@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Churn Prediction & Retention Dashboard
 
 ## Overview
@@ -17,3 +18,7 @@ This project predicts customer churn using XGBoost and visualizes key retention 
 ## Results
 - Achieved 87% churn prediction accuracy
 - Key customer segments visualized in dashboard
+=======
+# Churn-Prediction-Retention-Dashboard
+ This includes:  A Python-based XGBoost model setup  A sample Dash dashboard  SQL schema  A README.md for documentation 
+>>>>>>> 396a96dba3215258cf0428018ad0111794157ed9
